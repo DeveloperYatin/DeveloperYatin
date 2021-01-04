@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **Yatin-AndroidDeveloper/Yatin-AndroidDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yatin-AndroidDeveloper)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yatin-AndroidDeveloper)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
@@ -67,8 +67,7 @@ Hi, I'm [Yatin Batra!](https://blog.abhisheknaidu.tech/), a passionate self-taug
 ```text
 kotlin     4 hrs           ████████████████▒░░░░░░░░   65.62 % 
 XML        1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
-<!--Markdown   54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % -->
+
 ```
 <!--END_SECTION:waka-->
 
@@ -87,7 +86,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yatin-Android-Developer&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yatin-AndroidDeveloper&show_icons=true&theme=gotham" alt="Yatin-AndroidDeveloper" />
 
 
 
