@@ -62,8 +62,7 @@ Hi, I'm [Developer Yatin!](https://yatin.htmlsave.net/), a passionate self-taugh
 
 
 📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yatin-AndroidDeveloper&show_icons=true&theme=gotham" alt="Yatin-AndroidDeveloper" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yatin-AndroidDeveloper&show_icons=true&theme=gotham" alt="Yatin-AndroidDeveloper" />
 
 
 
