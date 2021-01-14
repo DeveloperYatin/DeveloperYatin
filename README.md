@@ -43,7 +43,7 @@ Hi, I'm [Developer Yatin!](https://yatin.htmlsave.net/), a passionate self-taugh
 - 🌱 I’m currently learning Kotlin; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Developer-Yatin](https://api.whatsapp.com/send?phone=918708155763&text=Hey%20Yatin!!&source=&data=&app_absent=);
-- 📝[Resume](https://drive.google.com/file/d/10kPqLGC_WmH_hW4jIW_QXFuegDBW4i-G/view)
+- 📝[Resume](https://drive.google.com/file/d/10cX55tG9XMEgoWXkGAISX3vHuqh7r047/view?usp=drivesdk)
 
 **Languages and Tools:**  
 
