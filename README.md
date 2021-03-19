@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yatin-AndroidDeveloper)](https://github.com/ryo-ma/github-profile-trophy)-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeveloperYatin)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.facebook.com/yatinbatra.yogeshbatra.5">
@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Yatin-AndroidDeveloper)
+![](https://visitor-badge.glitch.me/badge?page_id=DeveloperYatin)
 
 <br />
 
 Hi, I'm [Developer Yatin!](https://yatin.htmlsave.net/), a passionate self-taught Full Stack Android Developer 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/Yatin-AndroidDeveloper/Yatin-AndroidDeveloper/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/DeveloperYatin/DeveloperYatin/blob/main/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -62,7 +62,7 @@ Hi, I'm [Developer Yatin!](https://yatin.htmlsave.net/), a passionate self-taugh
 
 
 📈 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Yatin-AndroidDeveloper&show_icons=true&theme=gotham" alt="Yatin-AndroidDeveloper" />
+<img src="https://github-readme-stats.vercel.app/api?username=DeveloperYatin&show_icons=true&theme=gotham" alt="DeveloperYatin" />
 
 
 
