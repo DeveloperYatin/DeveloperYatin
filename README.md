@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Developer Yatin!](https://yatin.htmlsave.net/), a passionate self-taught Full Stack Android Developer 🚀 from India.
+Hi, I'm [Developer Yatin!](https://developeryatin.github.io/), a passionate self-taught Full Stack Android Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/DeveloperYatin/DeveloperYatin/blob/main/code.gif?raw=true" width="500" height="320" />
   
