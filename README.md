@@ -62,4 +62,4 @@ Hi, I'm [Developer Yatin!](https://developeryatin.github.io/), a passionate self
 <img src="https://github-readme-stats.vercel.app/api?username=DeveloperYatin&show_icons=true&theme=gotham" alt="DeveloperYatin" />
 
 
-
+[![@developeryatin's Holopin board](https://holopin.me/developeryatin)](https://holopin.io/@developeryatin)
