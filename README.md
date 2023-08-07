@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 <a href="https://github.com/DeveloperYatin">
-  <img align="left" alt="Yatin | Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="left" alt="Yatin | Github" width="22px" src="https://cdn.simpleicons.org/github/white" />
 </a>
 <a href="https://www.linkedin.com/in/yatin-batra-6571131a3">
-  <img align="left" alt="Yatin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Yatin's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 
