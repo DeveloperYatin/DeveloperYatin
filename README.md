@@ -20,13 +20,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/DeveloperYatin">
   <img align="left" alt="Yatin | Github" width="22px" src="https://cdn.simpleicons.org/github/white" />
 </a>
-<a href="https://www.linkedin.com/in/yatin-batra-6571131a3">
-  <img align="left" alt="Yatin's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
+<a>
+  <img align="left" alt="Yatin's LinkedIN" width="22px" src="https://cdn.simpleicons.org/Kotlin" />
 </a>
-
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=DeveloperYatin)
 
 <br />
 
