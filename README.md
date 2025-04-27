@@ -35,7 +35,7 @@ Hi, I'm [Developer Yatin!](https://developeryatin.github.io/), a passionate self
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Kotlin; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Developer-Yatin](https://api.whatsapp.com/send?phone=918708155763&text=Hey%20Yatin!!&source=&data=&app_absent=);
+- 📫 How to reach me: [@Developer-Yatin](https://www.linkedin.com/in/yatin-batra-6571131a3/);
 <!--- 📝[Resume](https://drive.google.com/file/d/1Zou7sf7umeOfr4YVUzd1HzwliqNpfXwa/view?usp=drivesdk) -->
 
 **Languages and Tools:**  
