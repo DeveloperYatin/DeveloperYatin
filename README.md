@@ -18,8 +18,16 @@ Here are some ideas to get you started:
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 <a href="https://github.com/DeveloperYatin">
-  <img align="left" alt="Yatin | Github" width="22px" src="https://cdn.simpleicons.org/github" />
+  <picture>
+    <!-- Icon for dark mode -->
+    <source srcset="https://cdn.simpleicons.org/github/ffffff" media="(prefers-color-scheme: dark)" />
+    <!-- Icon for light mode -->
+    <source srcset="https://cdn.simpleicons.org/github/000000" media="(prefers-color-scheme: light)" />
+    <!-- Fallback icon -->
+    <img align="left" alt="Yatin | GitHub" width="22px" src="https://cdn.simpleicons.org/github" />
+  </picture>
 </a>
+
 <a>
   <img align="left" alt="Yatin's LinkedIN" width="22px" src="https://cdn.simpleicons.org/Kotlin" />
 </a>
