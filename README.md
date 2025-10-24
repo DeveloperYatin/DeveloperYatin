@@ -23,7 +23,11 @@ Here are some ideas to get you started:
 <a>
   <img align="left" alt="Yatin's LinkedIN" width="22px" src="https://cdn.simpleicons.org/Kotlin" />
 </a>
+<a>
+  <img align="left" alt="Yatin's LinkedIN" width="22px" src="https://cdn.simpleicons.org/androidstudio" />
+</a>
 
+<br />
 <br />
 
 Hi, I'm [Developer Yatin!](https://developeryatin.github.io/), a passionate self-taught Full Stack Android Developer 🚀 from India.
