@@ -64,10 +64,25 @@ Hi, I'm [Developer Yatin!](https://developeryatin.github.io/), a passionate self
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<br/><br/><br/><br/>
 
+---
 
-📈 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=DeveloperYatin&show_icons=true&theme=gotham" alt="DeveloperYatin" />
+### 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperYatin&show_icons=true&theme=gotham" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperYatin&theme=gotham" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperYatin&theme=gotham&layout=compact" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+### 🏅 Holopin Badges  
 
 [![@developeryatin's Holopin board](https://holopin.me/developeryatin)](https://holopin.io/@developeryatin)
+
+---
